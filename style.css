@@ -1,0 +1,157 @@
+body {
+  box-sizing: border-box;
+  font-family: "EB Garamond", serif;
+  font-size: 18px;
+  margin: 2em;
+  background-color: black;
+  background-image: url("https://cdn.pixabay.com/photo/2022/10/13/15/28/sea-7519353_1280.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 450px;
+  margin-left: 450px;
+}
+
+/* Font used for the Title.*/
+h1 {
+  font-family: "EB Garamond", serif;
+  font-size: 60px;
+  font-weight: 100;
+  font-style: normal;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+/* Font used for the text under Title.*/
+h2 {
+  font-family: "EB Garamond", serif;
+  font-size: 18px;
+  font-weight: 100;
+  font-style: normal;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+/* For title card. */
+.cardTitle {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  border-radius: 12px 12px 12px 12px;
+  background: rgba(0, 0, 0, 0.6);
+  text-align: center;
+  color: rgba(255, 255, 255, 0.8);
+  font-family: "PT Serif", serif;
+  font-size: 1.5em;
+}
+
+/* For accordion - Closed. */
+input {
+  display: none;
+}
+
+label {
+  display: block;
+  padding: 8px 22px;
+  margin: 0 0 1px 0;
+  cursor: pointer;
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 12px;
+  color: #ffffff;
+  transition: ease 0.5s;
+}
+
+/* For accordion - Mouse hovered. */
+label:hover {
+  background: rgba(143, 147, 139, 0.6);
+}
+
+/* For accordion - Opened. */
+.content {
+  background: rgba(255, 255, 255, 0.8);
+  padding: 10px 25px;
+  border: 1px solid #a7a7a7;
+  margin: 0 0 1px 0;
+  border-radius: 12px;
+}
+
+input + label + .content {
+  display: none;
+}
+
+input:checked + label + .content {
+  display: block;
+}
+
+/* Formatting for comment sections. */
+.comment-box,
+.post-comment .list {
+  background: rgba(255, 255, 255, 0.6);
+  border-radius: 6px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.comment-session {
+  width: auto;
+  height: auto;
+  margin: auto;
+}
+
+.post-comment .list {
+  width: 100%;
+  margin-bottom: 12px;
+}
+
+.post-comment .list .user {
+  display: flex;
+  padding: 8px;
+  overflow: hidden;
+}
+
+.post-comment .list .user img {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+  border-radius: 50%;
+}
+
+.comment-session .name {
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.post-comment .list .day {
+  font-size: 12px;
+}
+
+.post-comment .comment-post {
+  padding: 0 15px 15px;
+  font-size: 15px;
+}
+
+ /* Link Formatting. */
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+/* Visited Link */
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+/* Mouse Hovering over link */
+a:hover {
+  color: darkred;
+  text-decoration: none;
+}
+
+/* Selected link */
+a:active {
+  color: black;
+  text-decoration: none;
+} 
