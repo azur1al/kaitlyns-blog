@@ -1,3 +1,5 @@
+If the glitch.io link isn't working, please access via https://alanas-blog.glitch.me/
+
 # Progress Log
 
 Started: 22/04/2025 - Total Hours = 7
