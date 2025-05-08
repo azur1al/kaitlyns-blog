@@ -9,8 +9,8 @@ body {
   background-repeat: no-repeat;
   margin-top: 30px;
   margin-bottom: 30px;
-  margin-right: 450px;
   margin-left: 450px;
+  margin-right: 450px;
 }
 
 /* Font used for the Title.*/
@@ -61,6 +61,7 @@ label {
   border-radius: 12px;
   color: #ffffff;
   transition: ease 0.5s;
+  
 }
 
 /* For accordion - Mouse hovered. */
