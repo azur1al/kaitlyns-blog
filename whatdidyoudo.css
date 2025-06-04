@@ -1,0 +1,15 @@
+body {
+  font-family: "EB Garamond", serif;
+  font-size: 18px;
+  margin: 2em;
+  background-color: black;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.linear-text-gradient {
+        background: linear-gradient(black, white, red, darkred, black);
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+      }

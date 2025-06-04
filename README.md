@@ -1,8 +1,8 @@
-If the glitch.io link isn't working, please access via https://alanas-blog.glitch.me/
+If the github.io link isn't working, please access via https://kaitlyns-blog.glitch.me/
 
 # Progress Log
 
-Started: 22/04/2025 - Total Hours = 7
+Started: 22/04/2025 - Total Hours = 13
   - Tested accordion system and played with its functions and limitations.
 - Created first accordion and implemented some formatting.
   - Played with text styling (alignment, font, margins).
@@ -41,13 +41,7 @@ Started: 22/04/2025 - Total Hours = 7
 - Added some comments to January 1st entry.
 
 08/05/2025
-- Moved the do you remember website files in here.
+- Moved the do you remember HTML and CSS files in here.
 
-
-To Do:
-- Assign colours to characters and implement them across websites.
-  - Ocean green/blue for Alana.
-  - White for Mother.
-  - Deep red for Father.
-- Complete all of the relevent blog entries (at least 12).
-- Write up relevent comments.
+20/05/2025
+- Moved The Seaside Twine piece HTML file here to test if it would work, which it does!
