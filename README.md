@@ -1,4 +1,5 @@
-If the github.io link isn't working, please access via https://kaitlyns-blog.glitch.me/
+THE GITHUB PAGES SITE IS NOT WORKING
+Please access via https://kaitlyns-blog.glitch.me/
 
 # Progress Log
 
