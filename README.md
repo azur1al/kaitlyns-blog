@@ -1,4 +1,4 @@
-_If the github.io link isn't working, please access via https://kaitlyns-blog.glitch.me/_
+_The GitHub Pages site does not work, please access via https://kaitlyns-blog.glitch.me/_
 
 <br>
 <p>From: Laura Murphy <laura.a.murphy@proton.me></p>
