@@ -1,48 +1,18 @@
-THE GITHUB PAGES SITE IS NOT WORKING
-Please access via https://kaitlyns-blog.glitch.me/
+_If the github.io link isn't working, please access via https://kaitlyns-blog.glitch.me/_
 
-# Progress Log
-
-Started: 22/04/2025 - Total Hours = 13
-  - Tested accordion system and played with its functions and limitations.
-- Created first accordion and implemented some formatting.
-  - Played with text styling (alignment, font, margins).
-  - Played with element transparency.
-  - Played with page margins in order to get the accordion centred.
-- Created second accordion.
-- Created barrier between accordions to better differenciate them as they were too close.
-- Added a title card.
-- Worked on the design of the title card and accordions.
-- Tested comment elements.
-  - Learnt how to make comments.
-  - Set up two comments within the first accordion.
-  - Attempted to create a comment thread but it failed, more research required.
-  - Added comments to second accordion.
-- Created third accordion.
-  - Added comment to third accordion.
-
-
-24/04/2025 - Total Hours = 2
-- Worked on content and design.
-  - Added a background and colour coordinated aspects of the accordion to the background.
-
-
-27/04/2025 - Total Hours = 1
-- Added link to Do You Remember external website.
-- Added link to The Seaside Twine short story.
-- Did some fine tuning in the code.
-
-
-30/04/2025 - Total Hours = 0
-- Finally remembered to push this to Github.
-
-
-05/05/2025 - Total Hours = 1
-- Wrote up January 1st entry.
-- Added some comments to January 1st entry.
-
-08/05/2025
-- Moved the do you remember HTML and CSS files in here.
-
-20/05/2025
-- Moved The Seaside Twine piece HTML file here to test if it would work, which it does!
+<br>
+<p>From: Laura Murphy <laura.a.murphy@proton.me></p>
+<p>To: Emma Greenfeld <emma.greenfeld@proton.me></p>
+<p>Subject: An apology</p>
+<br>
+<p>Hey, Emma.</p>
+<p>Long time no talk.</p>
+<p>First things first, I’m sorry. </p>
+<p>I’m sorry for all that has happened, I’m sorry that I wasn’t there for you when you needed me, and I’m sorry for taking my frustrations out on you, you didn’t deserve that at all. I’m sorry. You have every right to ignore this email. You have every right to hate me. You have every right to have nothing to do with this family ever again.</p>
+<p>Even so, you deserve to know the truth.</p>
+<p>I know you probably don’t want this. I know that you need to believe that she is happy out there, somewhere, even if it means that she left you without a word. But you need to know what happened. Where she is. Where they all are.</p>
+<p>She never told you, I never told you, but Kait had a blog. You know, she wrote about you an awful lot. You need to read through it. Start from the start and work your way back to the present. The answers are all in there. </p>
+<p>I’ve linked a locked ZIP file which you’ll be able to open once you find the answers.</p>
+<p>Whatever you decide to do, I hope that you can find it within yourself to forgive me, that you can find peace and closure in the answers.</p>
+<p>Take care of yourself,</p>
+<p>- Laura ♡</p>
