@@ -1,6 +1,3 @@
-_The GitHub Pages site does not work, please access via https://kaitlyns-blog.glitch.me/_
-
-<br>
 <p>From: Laura Murphy <laura.a.murphy@proton.me></p>
 <p>To: Emma Greenfeld <emma.greenfeld@proton.me></p>
 <p>Subject: An apology</p>
